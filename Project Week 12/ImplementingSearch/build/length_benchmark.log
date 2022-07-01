@@ -1,0 +1,36 @@
+Benchmarking for Length 40
+The Program took 1427ms with 100000 queries. 
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 601704
+	Average resident set size (kbytes): 0
+	Page size (bytes): 4096
+Benchmarking for Length 60
+The Program took 1481ms with 100000 queries. 
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 604824
+	Average resident set size (kbytes): 0
+	Page size (bytes): 4096
+Benchmarking for Length 80
+The Program took 1539ms with 100000 queries. 
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 606392
+	Average resident set size (kbytes): 0
+	Page size (bytes): 4096
+Benchmarking for Length 100
+The Program took 1558ms with 100000 queries. 
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 607948
+	Average resident set size (kbytes): 0
+	Page size (bytes): 4096

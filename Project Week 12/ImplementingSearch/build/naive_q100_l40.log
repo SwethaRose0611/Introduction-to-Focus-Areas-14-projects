@@ -1,0 +1,74 @@
+Found query between 53602660 and 53602700
+Found query between 53134011 and 53134051
+Found query between 52688729 and 52688769
+Found query between 49549225 and 49549265
+Found query between 47333885 and 47333925
+Found query between 53289771 and 53289811
+Found query between 35595015 and 35595055
+Found query between 45292932 and 45292972
+Found query between 43086110 and 43086150
+Found query between 55023357 and 55023397
+Found query between 45320175 and 45320215
+Found query between 26609800 and 26609840
+Found query between 30654369 and 30654409
+Found query between 38412754 and 38412794
+Found query between 8920065 and 8920105
+Found query between 51685586 and 51685626
+Found query between 52675763 and 52675803
+Found query between 97485390 and 97485430
+Found query between 56452999 and 56453039
+Found query between 37707359 and 37707399
+Found query between 55999386 and 55999426
+Found query between 40066326 and 40066366
+Found query between 34289837 and 34289877
+Found query between 53863250 and 53863290
+Found query between 37438725 and 37438765
+Found query between 55097256 and 55097296
+Found query between 39379822 and 39379862
+Found query between 54559781 and 54559821
+Found query between 30861295 and 30861335
+Found query between 43812516 and 43812556
+Found query between 31289441 and 31289481
+Found query between 33215544 and 33215584
+Found query between 26216341 and 26216381
+Found query between 31267198 and 31267238
+Found query between 36140018 and 36140058
+Found query between 29933113 and 29933153
+Found query between 37293624 and 37293664
+Found query between 43792399 and 43792439
+Found query between 54622110 and 54622150
+Found query between 40091701 and 40091741
+Found query between 51470337 and 51470377
+Found query between 49498027 and 49498067
+Found query between 55060391 and 55060431
+Found query between 51251170 and 51251210
+Found query between 44902796 and 44902836
+Found query between 50127589 and 50127629
+Found query between 40585860 and 40585900
+Found query between 46858484 and 46858524
+Found query between 41873220 and 41873260
+Found query between 52560256 and 52560296
+The Program took 248
+	Command being timed: "./bin/naive_search --reference ../data/hg38_partial.fasta.gz --query ../data/illumina_reads_40.fasta.gz"
+	User time (seconds): 261.75
+	System time (seconds): 0.25
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:22.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 210756
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 85671
+	Voluntary context switches: 0
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

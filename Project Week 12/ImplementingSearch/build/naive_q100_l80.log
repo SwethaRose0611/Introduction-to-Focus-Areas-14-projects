@@ -1,0 +1,64 @@
+Found query between 53602660 and 53602740
+Found query between 53134011 and 53134091
+Found query between 52688729 and 52688809
+Found query between 49549225 and 49549305
+Found query between 47333885 and 47333965
+Found query between 53289771 and 53289851
+Found query between 35595015 and 35595095
+Found query between 45292932 and 45293012
+Found query between 45320175 and 45320255
+Found query between 26609800 and 26609880
+Found query between 30654369 and 30654449
+Found query between 51685586 and 51685666
+Found query between 56452999 and 56453079
+Found query between 37707359 and 37707439
+Found query between 55999386 and 55999466
+Found query between 34289837 and 34289917
+Found query between 53863250 and 53863330
+Found query between 37438725 and 37438805
+Found query between 55097256 and 55097336
+Found query between 39379822 and 39379902
+Found query between 54559781 and 54559861
+Found query between 43812516 and 43812596
+Found query between 31289441 and 31289521
+Found query between 26216341 and 26216421
+Found query between 31267198 and 31267278
+Found query between 36140018 and 36140098
+Found query between 29933113 and 29933193
+Found query between 37293624 and 37293704
+Found query between 43792399 and 43792479
+Found query between 54622110 and 54622190
+Found query between 40091701 and 40091781
+Found query between 51470337 and 51470417
+Found query between 49498027 and 49498107
+Found query between 55060391 and 55060471
+Found query between 51251170 and 51251250
+Found query between 50127589 and 50127669
+Found query between 40585860 and 40585940
+Found query between 46858484 and 46858564
+Found query between 41873220 and 41873300
+Found query between 52560256 and 52560336
+The Program took 248
+	Command being timed: "./bin/naive_search --reference ../data/hg38_partial.fasta.gz --query ../data/illumina_reads_80.fasta.gz"
+	User time (seconds): 262.40
+	System time (seconds): 0.29
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:22.71
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 215440
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 111262
+	Voluntary context switches: 0
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

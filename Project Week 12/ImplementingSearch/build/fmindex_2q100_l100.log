@@ -1,0 +1,65 @@
+Loading 2FM-Index ... done
+	Found query 0 at 53602660
+	Found query 2 at 53134011
+	Found query 7 at 52688729
+	Found query 9 at 49549225
+	Found query 11 at 47333885
+	Found query 12 at 53289771
+	Found query 13 at 35595015
+	Found query 15 at 45292932
+	Found query 17 at 45320175
+	Found query 18 at 26609800
+	Found query 21 at 30654369
+	Found query 25 at 51685586
+	Found query 29 at 56452999
+	Found query 30 at 37707359
+	Found query 32 at 55999386
+	Found query 35 at 34289837
+	Found query 38 at 53863250
+	Found query 40 at 37438725
+	Found query 44 at 55097256
+	Found query 46 at 39379822
+	Found query 47 at 54559781
+	Found query 51 at 43812516
+	Found query 52 at 31289441
+	Found query 55 at 26216341
+	Found query 56 at 31267198
+	Found query 57 at 36140018
+	Found query 59 at 29933113
+	Found query 62 at 37293624
+	Found query 65 at 43792399
+	Found query 67 at 54622110
+	Found query 68 at 40091701
+	Found query 69 at 51470337
+	Found query 71 at 49498027
+	Found query 73 at 55060391
+	Found query 77 at 51251170
+	Found query 84 at 50127589
+	Found query 88 at 40585860
+	Found query 89 at 46858484
+	Found query 96 at 41873220
+	Found query 98 at 52560256
+The Program took 4ms.
+	Command being timed: "./bin/fmindex_search --index myIndex.index --query ../data/illumina_reads_100.fasta.gz"
+	User time (seconds): 1.51
+	System time (seconds): 0.12
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.64
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 82116
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 21357
+	Voluntary context switches: 0
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

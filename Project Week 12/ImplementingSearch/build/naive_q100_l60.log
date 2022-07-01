@@ -1,0 +1,67 @@
+Found query between 53602660 and 53602720
+Found query between 53134011 and 53134071
+Found query between 52688729 and 52688789
+Found query between 49549225 and 49549285
+Found query between 47333885 and 47333945
+Found query between 53289771 and 53289831
+Found query between 35595015 and 35595075
+Found query between 45292932 and 45292992
+Found query between 55023357 and 55023417
+Found query between 45320175 and 45320235
+Found query between 26609800 and 26609860
+Found query between 30654369 and 30654429
+Found query between 38412754 and 38412814
+Found query between 51685586 and 51685646
+Found query between 56452999 and 56453059
+Found query between 37707359 and 37707419
+Found query between 55999386 and 55999446
+Found query between 34289837 and 34289897
+Found query between 53863250 and 53863310
+Found query between 37438725 and 37438785
+Found query between 55097256 and 55097316
+Found query between 39379822 and 39379882
+Found query between 54559781 and 54559841
+Found query between 43812516 and 43812576
+Found query between 31289441 and 31289501
+Found query between 26216341 and 26216401
+Found query between 31267198 and 31267258
+Found query between 36140018 and 36140078
+Found query between 29933113 and 29933173
+Found query between 37293624 and 37293684
+Found query between 43792399 and 43792459
+Found query between 54622110 and 54622170
+Found query between 40091701 and 40091761
+Found query between 51470337 and 51470397
+Found query between 49498027 and 49498087
+Found query between 55060391 and 55060451
+Found query between 51251170 and 51251230
+Found query between 44902796 and 44902856
+Found query between 50127589 and 50127649
+Found query between 40585860 and 40585920
+Found query between 46858484 and 46858544
+Found query between 41873220 and 41873280
+Found query between 52560256 and 52560316
+The Program took 249
+	Command being timed: "./bin/naive_search --reference ../data/hg38_partial.fasta.gz --query ../data/illumina_reads_60.fasta.gz"
+	User time (seconds): 262.64
+	System time (seconds): 0.28
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:23.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 213880
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 86453
+	Voluntary context switches: 0
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
